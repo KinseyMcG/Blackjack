@@ -1,0 +1,3 @@
+/Users/administrator/CLionProjects/1_McGlasson_Kinsey/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/administrator/CLionProjects/1_McGlasson_Kinsey/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/administrator/CLionProjects/1_McGlasson_Kinsey/cmake-build-debug/CMakeFiles/1_McGlasson_Kinsey.dir
